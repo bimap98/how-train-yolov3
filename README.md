@@ -1,5 +1,4 @@
-# how-train-yolov3
-How to train YOLOV3
+# How Train Yolov3
 
 1. Download LabelImg in https://tzutalin.github.io/labelImg/
 2. Labeling Image (you can see in my Medium https://bimap98.medium.com/how-to-train-yolo-v3-45120ead54bb)
