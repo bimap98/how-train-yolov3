@@ -5,6 +5,6 @@
 3. Setting this bellow picture
 <img src= "Screenshot_2.jpg">
 4. But that's not absolute, you can see documentation in here https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects
-6. Train
-7. Let's test in yolo_object_detection.py (dont forget set 
+5. Train
+6. Let's test in yolo_object_detection.py (dont forget set 
 
