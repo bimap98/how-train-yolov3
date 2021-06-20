@@ -9,4 +9,5 @@
 5. Train
 <br>
 6. Let's test in yolo_object_detection.py and also dont forget set where thats weights and config from "net = cv2.dnn.readNet("yolov3_training_last.weights", "yolov3_testing.cfg")
-
+<br>
+7. If you have any issue you can up Issues in my github repository
