@@ -13,6 +13,6 @@
 8. Let's test in yolo_object_detection.py and also dont forget set where thats weights and config from "net = cv2.dnn.readNet("yolov3_training_last.weights", "yolov3_testing.cfg")
 <br>
 7. This result our model
-<img src= "Screenshot_2.jpg">
+<img src= "Screenshot_4.jpg">
 <br>
 8. If you have any issue you can up Issues in my github repository
