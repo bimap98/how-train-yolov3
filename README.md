@@ -10,9 +10,10 @@
 <br>
 6. Anyway the results will be like this, weights results each 1000 iteration
 <img src= "Screenshot_3.jpg">
-8. Let's test in yolo_object_detection.py and also dont forget set where thats weights and config from "net = cv2.dnn.readNet("yolov3_training_last.weights", "yolov3_testing.cfg")
+7. Let's test in yolo_object_detection.py and also dont forget set where thats weights and config from "net = cv2.dnn.readNet("yolov3_training_last.weights", "yolov3_testing.cfg")
 <br>
-7. This result our model
+8. This result our model
 <img src= "Screenshot_4.jpg">
-8. For config you can find here https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov3.cfg or you can download in my repository
-9. If you have any issue you can up Issues in my github repository
+9. For config you can find here https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov3.cfg or you can download in my repository
+<br>
+10. If you have any issue you can up Issues in my github repository
