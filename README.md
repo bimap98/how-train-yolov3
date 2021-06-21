@@ -16,4 +16,4 @@
 <img src= "Screenshot_4.jpg">
 9. For config you can find here https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov3.cfg or you can download in my repository
 <br>
-10. Good Luck
+10. Usually takes 6-8 hours for training. Good Luck.
