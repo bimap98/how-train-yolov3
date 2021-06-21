@@ -2,7 +2,7 @@
 
 1. Download LabelImg in https://tzutalin.github.io/labelImg/
 2. Labeling Image (you can see in my Medium https://bimap98.medium.com/how-to-train-yolo-v3-45120ead54bb)
-3. Setting this bellow picture
+3. Setting this bellow picture in Train_YoloV3.ipynb
 <img src= "Screenshot_2.jpg">
 4. But that's not absolute, you can see documentation in here (https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects)
 <br>
