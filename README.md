@@ -9,7 +9,7 @@
 5. Train
 <br>
 6. Anyway the results will be like this, weights results each 1000 iteration
-<img src= "Screenshot_3.jpg">
+<img src= "Screenshot_6.jpg">
 7. Let's test in yolo_object_detection.py and also dont forget set where thats weights and config from "net = cv2.dnn.readNet("yolov3_training_last.weights", "yolov3_testing.cfg")
 <br>
 8. This result our model
