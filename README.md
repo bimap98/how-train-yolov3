@@ -14,4 +14,5 @@
 <br>
 7. This result our model
 <img src= "Screenshot_4.jpg">
-8. If you have any issue you can up Issues in my github repository
+8. For config you can find here https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov3.cfg or you can download in my repository
+9. If you have any issue you can up Issues in my github repository
