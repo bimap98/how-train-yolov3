@@ -14,5 +14,4 @@
 <br>
 7. This result our model
 <img src= "Screenshot_4.jpg">
-<br>
 8. If you have any issue you can up Issues in my github repository
