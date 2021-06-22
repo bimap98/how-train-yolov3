@@ -11,7 +11,7 @@ net = cv2.dnn.readNet("yolov3_training_last.weights", "yolov3_testing.cfg")
 classes = ["hand"]
 
 # Images path
-images_path = glob.glob(r"E:\Tugas Akhir Bahasa Isyarat\Bima (6-17-2021 2-32-08 PM)\*.jpg")
+images_path = glob.glob(r"E:\Medium\*.jpg")
 
 
 
